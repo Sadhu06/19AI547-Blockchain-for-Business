@@ -82,6 +82,9 @@ Users can borrow ETH by providing collateral.
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
+![image](https://github.com/user-attachments/assets/d44b76e9-2848-419c-84f6-dd5896fd2e06)
+![image](https://github.com/user-attachments/assets/ab76e6e8-94d7-450d-ad24-8fd02d72d1cc)
+![image](https://github.com/user-attachments/assets/283cc163-2dc3-45ae-8261-4c3fe2a4c796)
 
 
 # High-Level Overview:
@@ -94,4 +97,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+Thus to build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi is implemented successfully.
